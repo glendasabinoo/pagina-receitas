@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Noto Serif', serif;
+    background-color: #EAEAEA;
+}
+main {
+    background-color: #ffff;
+    width: 70%;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #c7bc8eaf;
+}
+.titulo {
+    color: #1b1b1b;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    font-size: 28px;
+}
+img {
+    width: 100%;
+    height: 250px;
+    object-fit:cover;
+    padding: auto;
+}
+figcaption {
+    color: #8F8F8F;
+    font-size: 12px;
+    text-align: right;
+}
+.ingredientes {
+    color: #1b1b1b;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+ul li {
+    line-height: 26px;
+    list-style-position: inside;
+    padding-left: 20px;
+    text-align: justify;
+    font-size: 16px;
+    color: #39393A;
+}
+.modo-de-preparo {
+    color: #1b1b1b;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px; 
+}
+ol li {
+    line-height: 26px;
+    list-style-position: inside;
+    padding-left: 20px;
+    text-align: justify;
+    font-size: 16px;
+    color: #39393A;
+}
+.aditional {
+    color: #1b1b1b;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+p {
+    font-size: 16px;
+    text-align: justify;
+    color: #39393A;
+}
+footer {
+    color: #8F8F8F;
+    font-size: 12px;
+}
+.copyright {
+    padding-top: 5px;
+    text-align: center;
+}
